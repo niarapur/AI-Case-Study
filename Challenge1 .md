@@ -24,6 +24,7 @@ Richard Barton
 > - Interest from Zillow Mortgages
 > - Revenue from rentals
 > - Commissions on closing services
+>   
 >Zillow is one of the most visited real-estate websites. Zillow's 1st quarter reported ***2.3 billion visits*** , that grew 3% compared to last year. It is estimated that 70% of all customers in the US, who transact in residential real estate visit and use Zillow ( 2023 Zillow Annual report). While the numbers are staggering in terms of a customer base- Zillow is yet to turn a profit. Zillow's 2023 revenue was $1.95Bn and operated with a net loss of $158MM (Yahoo Finance Ticker ZG).
 >
 >## AI At Zillow
