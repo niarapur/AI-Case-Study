@@ -23,10 +23,12 @@ Richard Barton
 >Additional minor revenue sources include:
 > - Interest from Zillow Mortgages
 > - Revenue from rentals
-> - Commissions on closing services.
-Zillow is one of the most visited real-estate websites. Zillow's 1st quarter reported ***2.3 billion visits*** , that grew 3% compared to last year. It is estimated that 70% of all customers in the US, who transact in residential real estate visit and use Zillow ( 2023 Zillow Annual report). While the numbers are staggering in terms of a customer base- Zillow is yet to turn a profit. Zillow's 2023 revenue was $1.95Bn and operated with a net loss of $158MM (Yahoo Finance Ticker ZG).
-One of the key differentiators that contributed to Zillow's early success in capturing this market was its investment into AI. Zillow's proprietary  ML generated home valuation - the Zestimate, is at the core of this. Prominently displayed on a majority of home listings, the Zestimate value predicts the value of the home after considering  vast databases available including home evaluations, county data, recent home sales and public interest in the property to name a few. The most interesting aspect of the Zestimate is that it is built from a lot of publicly available information, augmented with information entered by homeowners/sellers. With the Zestimate - Zillow opened the doors to increased investment in AI based tools. 
+> - Commissions on closing services
+>Zillow is one of the most visited real-estate websites. Zillow's 1st quarter reported ***2.3 billion visits*** , that grew 3% compared to last year. It is estimated that 70% of all customers in the US, who transact in residential real estate visit and use Zillow ( 2023 Zillow Annual report). While the numbers are staggering in terms of a customer base- Zillow is yet to turn a profit. Zillow's 2023 revenue was $1.95Bn and operated with a net loss of $158MM (Yahoo Finance Ticker ZG).
+>## AI At Zillow
+>One of the key differentiators that contributed to Zillow's early success in capturing this market was its investment into AI. Zillow's proprietary  ML generated home valuation - the Zestimate, is at the core of this. Prominently displayed on a majority of home listings, the Zestimate value predicts the value of the home after considering  vast databases available including home evaluations, county data, recent home sales and public interest in the property to name a few. The most interesting aspect of the Zestimate is that it is built from a lot of publicly available information, augmented with information entered by homeowners/sellers. With the Zestimate - Zillow opened the doors to increased investment in AI based tools. Zillow has a robust infrastructure and investment to support AI growth
 
 # Sources
-<ol>
-</li>NY times interview with Richard Barton [NYTimes Interview](https://www.nytimes.com/2014/04/14/technology/the-art-of-something-from-nothing.html)
+>
+> - NY times interview with Richard Barton [NYTimes Interview](https://www.nytimes.com/2014/04/14/technology/the-art-of-something-from-nothing.html)
+> - Yahoo Finance Zillow Group [YahooFinance ticker ZG](https://finance.yahoo.com/quote/Z/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAACxaAGui0Qt_v9KhwnwhcN4xtIuB1V4AjVBYU2SacZSHNx3I_USl2ixgcNrxY15LMm5SGMwp0ieGOf_d-Y86YxlN0YbEXu-mp-URHGVSuEQokhNhIU2meyw4vbOiJ9RmNVulbuITeZ8-u3_2F5486HVRe7REpClRQlxBwFSAt4X1)
