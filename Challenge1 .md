@@ -1,4 +1,5 @@
-![Zillow Group](https://s.zillowstatic.com/pfs/static/z-logo-default.svg)# AI Adoption in the Real estate Industry -  Zillow Group's Domination fueled by AI  
+![Zillow Group](https://s.zillowstatic.com/pfs/static/z-logo-default.svg)
+# AI Adoption in the Real estate Industry -  Zillow Group's Domination fueled by AI  
 
 
 ## Introduction
